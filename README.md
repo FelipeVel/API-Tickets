@@ -9,7 +9,7 @@ Este API funciona por consola, utiliza una base de datos en MySQL para operar co
 ## Instrucciones de uso
 **1.** Importar la base de datos en MySQL
 
-**2.** Crear una carpeta en GOROOT/src y copiar allí el archivo Main.go
+**2.** Crear una carpeta en GOROOT(carpeta de instalacion de Golang)/src y copiar allí el archivo Main.go
 
 **3.** Abrir la ventana de comandos en modo administrador
 
