@@ -1,12 +1,12 @@
 # API-Tickets
 Este API funciona por consola, utiliza una base de datos en MySQL para operar con tickets.
 
-##Pre-requisitos
+## Pre-requisitos
 * [MySQL](https://www.mysql.com/) - Base de datos usada
 * [Go](https://golang.org/) - Lenguaje utilizado
 * [Go SQL Driver] (https://github.com/go-sql-driver/mysql) - Driver de conexion entre Go y MySQL
 
-##Instrucciones de uso
+## Instrucciones de uso
 _1. Importar la base de datos en MySQL
 _2. Crear una carpeta en GOROOT/src y copiar allí el archivo Main.go
 _3. Abrir la ventana de comandos
