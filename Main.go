@@ -163,6 +163,7 @@ func main() {
 			err := crear(t)
 			if err != nil {
 				fmt.Printf("Error creando ticket: %v\n", err)
+				break
 			}
 			fmt.Printf("Ticket creado\n")
 			break
